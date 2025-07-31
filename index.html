@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+    <title>Guess the Number Game</title>
+</head>
+<body>
+    <h1>Guess the Number[1-20]</h1>   
+    <div class="wrapper">
+        <div class="start">
+            <button type="button" id="startGame">🟢</button>
+        </div>
+        <div class="game">
+            <label for="number">Enter the Number : </label>
+            <input type="number" name="number" id="number" min="1" max="20">
+        </div>
+        <div class="check">
+            <button type="button" id="recheck">🔁</button>
+        </div>
+        <div class="details">
+            <div id="result"></div>
+            <div id="tries"></div>
+        </div>
+        <div class="reset">
+            <button type="button" id="endGame">🔴</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
