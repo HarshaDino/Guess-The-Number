@@ -2,7 +2,7 @@
 
 A fun and interactive number guessing game built using HTML, CSS, and JavaScript. Challenge yourself to guess a randomly generated number within a specific range.
 
-## 📁 Features
+### 📁 Features
 
 - Random number generation
 - Interactive input and result display
@@ -11,6 +11,6 @@ A fun and interactive number guessing game built using HTML, CSS, and JavaScript
 - Score tracker 
 
 
-## 🔗 Live Demo
+### 🔗 Live Demo
 
-[Click here to play the game!](https://harshadino.github.io/Guess-The-Number/))  
+[Click here to play the game!](https://harshadino.github.io/Guess-The-Number/)
