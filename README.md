@@ -1,6 +1,6 @@
 ### Guess The Number Game
 
-A fun and interactive number guessing game built using HTML, CSS, and JavaScript. Challenge yourself to guess a randomly generated number within a specific range.
+  A fun and interactive number guessing game built using HTML, CSS, and JavaScript. Challenge yourself to guess a randomly generated number within a specific range.
 
 ### Features
 
